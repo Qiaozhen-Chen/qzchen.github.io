@@ -1,0 +1,59 @@
+body {
+    font-family: "Helvetica Neue", Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #ffffff;
+    color: #333333;
+    line-height: 1.7;
+}
+
+.container {
+    width: 70%;
+    margin: 60px auto;
+}
+
+nav {
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+nav a {
+    margin: 0 20px;
+    text-decoration: none;
+    color: #1a3d7c;
+    font-weight: 500;
+}
+
+nav a:hover {
+    text-decoration: underline;
+}
+
+h1 {
+    font-size: 32px;
+    margin-bottom: 10px;
+}
+
+h2 {
+    margin-top: 40px;
+    color: #1a3d7c;
+}
+
+p {
+    margin-bottom: 15px;
+}
+
+.timeline {
+    border-left: 2px solid #1a3d7c;
+    padding-left: 20px;
+}
+
+.timeline-item {
+    margin-bottom: 20px;
+}
+
+footer {
+    text-align: center;
+    margin-top: 80px;
+    font-size: 14px;
+    color: #777777;
+}
